@@ -1,6 +1,8 @@
 rm(list=ls()) #elimino elementos del environment
 setwd("/home/clinux01/Escritorio/Labo_Cate/") #fijo espacio de trabajo 
 
+
+####
 # Funciones en clase ------------------------------------------------------
 ##funcion substract
 nombre="Cate"
